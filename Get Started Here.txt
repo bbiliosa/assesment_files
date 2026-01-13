@@ -1,0 +1,9 @@
+Instructions to help you understand the scope:
+
+
+1. Open developers_files/integration/Visual.pdf explanation to see the 3 features that will be integrated in this phase.
+2. developers_files/Integration Folder -> Contains the documentation for each feature as seen in Visual Explanation File.
+3. developers_files/Integration Api - Phase 1.pdf contains the instruction to request data via API for the above features.
+
+The other files in components are the files that you will be editing for integration.
+
